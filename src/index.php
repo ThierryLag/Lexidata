@@ -15,6 +15,7 @@
  */
 
 // ============================================================================
+
 $serie = intval(trim($_REQUEST['serie']));
 $groupe = intval(trim($_REQUEST['groupe']));
 
